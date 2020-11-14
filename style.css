@@ -1,0 +1,31 @@
+body {
+  background-color: lightgreen;
+  margin: 0px;
+  overflow-y: scroll;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+
+
+h2 {
+  color: purple;
+  text-align: center;
+  font-style: italic;
+}
+
+
+p {
+  font-family: arial;
+  font-size: 20px;
+  text-align: center;
+}
+
+h3 {
+  color: darkgreen;
+  text-align: center;
+  font-size: 36px;
+}
